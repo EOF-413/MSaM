@@ -1,10 +1,3 @@
-# MSaM
-Файлы сервера находятся в ветке server.
-
-Файлы клиента находятся в ветке client.
-
-Выбор ветки происходит у надписи main (ветка).
-
 ip
 
 ● stammer-deliberate.tun.ply.gg
@@ -19,4 +12,3 @@ ip
 
 => 127.0.0.1:24454
 
-MSaM: Minecraft Server and Mods
